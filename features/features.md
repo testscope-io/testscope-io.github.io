@@ -6,10 +6,10 @@ has_children: true
 permalink: features
 ---
 
-# Utilities
+# Features
 {: .no_toc }
 
-## Features
+## Some features
 
 
 ----
