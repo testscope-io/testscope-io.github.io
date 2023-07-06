@@ -1,8 +1,11 @@
 ---
-title: Parallel Testing
-layout: home
-nav_order: 1
+layout: default
+title: Layout
+parent: Features
 ---
+
+# Features
+{: .no_toc }
 
 ## Parallel Testing
 
