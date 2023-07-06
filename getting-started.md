@@ -1,6 +1,7 @@
 ---
 title: Getting started
 layout: home
+nav_order: 3
 ---
 
 ## 1. Basic concepts
