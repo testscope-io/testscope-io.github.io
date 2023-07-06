@@ -1,6 +1,7 @@
 ---
 title: Basic Concepts
 layout: home
+nav_order: 2
 ---
 
 ## 1. Project
