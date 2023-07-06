@@ -1,8 +1,13 @@
 ---
+layout: default
 title: Features
-layout: home
 nav_order: 6
+has_children: true
+permalink: features
 ---
+
+# Utilities
+{: .no_toc }
 
 ## Features
 
