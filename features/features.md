@@ -9,7 +9,7 @@ permalink: features
 # Features
 {: .no_toc }
 
-## Some features
+Testscope.io has some features that...
 
 
 ----
