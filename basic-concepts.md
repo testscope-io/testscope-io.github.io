@@ -4,32 +4,53 @@ layout: home
 nav_order: 2
 ---
 
+# Basic concepts
+
+---
+
+<img src="/assets/project-scope-scenario.png" style="width:100%"/>
+
 ## 1. Project
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In Testscope, a project serves as the foundation for organizing your testing efforts. It represents a specific software application, system, or product that you are testing. Within a project, you can define and manage multiple scopes, scenarios, and steps, allowing you to structure your testing activities in a logical and organized manner.
 
 ## 2. Scope
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+A scope in Testscope is a subset of your project, representing a specific area or module that you want to focus on during testing. It helps you break down your testing efforts into manageable sections. Scopes can be created within a project and serve as containers for scenarios, steps, and expectations. By defining scopes, you can better organize and prioritize your testing activities, ensuring comprehensive coverage.
+
+Image a scope as a feature set that you want to deliver.
 
 ## 3. Scenario
 
-But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?
+Scenarios in Testscope represent specific test cases or test scenarios that you want to execute within a scope. Each scenario captures a particular testing scenario, such as a user interaction, a specific functionality, or a specific use case. By defining scenarios, you can structure and document your testing approach, making it easier to execute and track your testing progress within each scope.
+
+Each scope could have multiple scenarios.
 
 ## 4. Step and Expectation
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+Steps and expectations are the building blocks of your test scenarios in Testscope. A step represents a specific action or task that needs to be performed during testing, such as clicking a button, entering data, or navigating through a menu. An expectation, on the other hand, defines the expected outcome or result of a particular step. By defining clear steps and expectations, you ensure that your testing is thorough, consistent, and verifiable, allowing you to track and validate the behavior of your application or system.
 
 ## 5. Session
 
-On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.
+In Testscope, a test session refers to a specific testing session or iteration conducted within a project. It represents a focused period of time or a specific testing phase where you execute your test scenarios and track the results. Test sessions help you organize your testing activities into logical groups, allowing you to manage and analyze the progress and outcomes of each session independently. By utilizing test sessions, you can maintain a structured approach to testing and gain valuable insights into the effectiveness of your testing efforts over time.
 
-## 7. Testers
+You are in control on what scope and scenarios that you want to test in each test session. You can run multiple test session in parallel or in serial, then compare the result.
 
-Mauris id pharetra est. Nullam auctor magna non ipsum placerat, nec commodo mauris dapibus. Morbi mattis mauris in ante porta venenatis. Sed maximus velit metus, at elementum eros accumsan sit amet. Aenean convallis arcu risus, eu pulvinar velit porttitor id. Nunc luctus sem eget pharetra faucibus. Maecenas ultricies turpis eget risus dictum accumsan. Maecenas sed dictum augue. Vestibulum sed magna vehicula, laoreet diam vel, dictum lorem. Cras hendrerit, sem non fermentum maximus, massa arcu elementum diam, sit amet mattis dolor arcu vel libero. Praesent vehicula ac turpis a tempus. Nullam vehicula lorem risus, quis aliquam leo blandit sed. 
+<img src="/assets/test-session.png" style="width:100%"/>
 
+## 7. Collabrator as testers
+
+Collaboration is a key feature in Testscope that promotes teamwork and facilitates effective collaboration among members of your testing team. Collaborators are individuals who are granted access to a project, allowing them to actively participate in the testing process. With the Collaborator feature, you can easily invite team members, stakeholders, or subject matter experts to contribute to your testing efforts. Collaborators can also manage the project, scope and scenarios and contribute to the overall improvement of test quality. This collaborative approach fosters effective communication, knowledge sharing, and a shared understanding of the testing objectives, ultimately enhancing the overall quality of your testing endeavors in Testscope.
+
+Once a scenario is assigned to a tester, other tester will not be able to test it. This prevent duplicate effort on testing one scenario, thus the parallel testing and its collaboration will be effective.
+
+<img src="/assets/testers.png" style="width:100%"/>
 
 ----
+
+<div style="text-align:right;">
+  <a href="/getting-started.html">Next: Getting started</a>
+</div>
 
 [Testscope.io]: https://testscope.io
 [Pricing]: https://testscope.io/pricing

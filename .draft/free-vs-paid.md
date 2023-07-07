@@ -1,13 +1,17 @@
 ---
-title: Invite other collaborators
+title: Free vs Paid
 layout: home
-nav_order: 4
+nav_order: 5
 ---
 
-## How it works
+# What is the difference?
 
 
 ----
+
+TO BE WRITTEN.
+
+<hr/>
 
 [Testscope.io]: https://testscope.io
 [Pricing]: https://testscope.io/pricing
