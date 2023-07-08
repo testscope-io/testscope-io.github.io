@@ -17,7 +17,7 @@ If you are too lazy to read, you can watch <a href="https://www.youtube.com/watc
 <hr/>
 
 <div style="text-align:right;">
-  <a href="/basic-concepts.html">Next: Basic concept</a>
+  <a href="/why-manual-testing.html">Next: Why Manual Testing</a>
 </div>
 
 [Testscope.io]: https://testscope.io

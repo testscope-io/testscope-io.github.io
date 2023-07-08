@@ -1,5 +1,5 @@
 ---
-title: Getting started
+title: Getting Started
 layout: home
 nav_order: 3
 ---
@@ -63,6 +63,10 @@ You'll be redirected back to test session page and your scenario will be marked 
 That is it!
 
 <hr/>
+
+<div style="text-align:right;">
+  <a href="/invite-collaborators.html">Next: Invite Other Collaborators</a>
+</div>
 
 [Testscope.io]: https://testscope.io
 [Pricing]: https://testscope.io/pricing

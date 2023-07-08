@@ -18,7 +18,7 @@ In Testscope, a project serves as the foundation for organizing your testing eff
 
 A scope in Testscope is a subset of your project, representing a specific area or module that you want to focus on during testing. It helps you break down your testing efforts into manageable sections. Scopes can be created within a project and serve as containers for scenarios, steps, and expectations. By defining scopes, you can better organize and prioritize your testing activities, ensuring comprehensive coverage.
 
-Image a scope as a feature set that you want to deliver.
+Imagine a scope as a feature set that you want to deliver.
 
 ## 3. Scenario
 
@@ -38,13 +38,9 @@ You are in control on what scope and scenarios that you want to test in each tes
 
 <img src="/assets/test-session.png" style="width:100%"/>
 
-## 7. Collabrator as testers
+## 7. Collaborator as testers
 
 Collaboration is a key feature in Testscope that promotes teamwork and facilitates effective collaboration among members of your testing team. Collaborators are individuals who are granted access to a project, allowing them to actively participate in the testing process. With the Collaborator feature, you can easily invite team members, stakeholders, or subject matter experts to contribute to your testing efforts. Collaborators can also manage the project, scope and scenarios and contribute to the overall improvement of test quality. This collaborative approach fosters effective communication, knowledge sharing, and a shared understanding of the testing objectives, ultimately enhancing the overall quality of your testing endeavors in Testscope.
-
-Once a scenario is assigned to a tester, other tester will not be able to test it. This prevent duplicate effort on testing one scenario, thus the parallel testing and its collaboration will be effective.
-
-<img src="/assets/testers.png" style="width:100%"/>
 
 ----
 
