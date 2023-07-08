@@ -15,9 +15,9 @@ Manual testing brings unique advantages and plays a crucial role in ensuring com
 
 Manual testing is valuable when dealing with complex or non-deterministic scenarios that are challenging to automate effectively. Human testers can adapt, think critically, and apply domain knowledge to identify edge cases, unexpected behaviors, or potential risks. Moreover, manual testing allows for exploratory testing, where testers can creatively investigate the system, make observations, and discover previously unknown issues.
 
-Automated testing can't do that (at least for now). The human touch in manual testing complements the efficiency of automated testing, ensuring a holistic approach to quality assurance that goes beyond purely technical validations.
+Automated testing can't do that (at least for now, you know, the emerging AI waves). The human touch in manual testing complements the efficiency of automated testing, ensuring a holistic approach to quality assurance that goes beyond purely technical validations.
 
-We agree that automated testing should be the first-class citizen in our product development. Testscope.io as product itself is tested by automated testing (unit testing and integration testing). But let us don't think that all software use cases could be handled by automated testing and all products are software product that could be easily tested by automation. Please think another kind of thing like robotic, IoT device,  your car, your groceries checklist, your schedule medication schedule, your checklist before go on vacation or anything that you could think of. All of them are whithin reason to be tested/checked manually and documented properly.
+We agree that automated testing should be the first-class citizen in our product development. Testscope.io as product itself is tested by automated testing (unit testing and integration testing). But let us don't think that all software use cases could be handled by automated testing and all products are software product that could be easily tested by automation. Please think another kind of thing like robotic, IoT device,  your car, your groceries checklist, your medication schedule, your checklist before go on vacation or anything that you could think of. All of them are whithin reason to be tested/checked manually and documented properly.
 
 For this reason, Testscope.io is built.
 

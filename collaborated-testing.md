@@ -13,7 +13,7 @@ This page will help you to learn some perks of collaborated testing.
 
 ## 1. You will be prevented to test a scenario that is already assigned to other
 
-The first scenario here is already assigned to `foo@testscope.io`
+The first scenario here is assigned to `foo@testscope.io`
 
 <img src="/assets/collaborated-testing/1.png" style="width:100%"/>
 
@@ -21,7 +21,7 @@ An assigned scenario is marked by a dashboard/gauge icon. If you tried to test i
 
 <img src="/assets/collaborated-testing/2.png" style="width:100%"/>
 
-Once a scenario is assigned to a tester, other tester will not be able to test it. This prevent duplicate effort on testing one scenario, thus the parallel testing and its collaboration will be effective.
+Once a scenario is assigned to a tester, the other will not be able to test it. This prevent duplicate effort on testing one scenario, thus the parallel testing and its collaboration will be efficient and time-saving.
 
 <img src="/assets/testers.png" style="width:100%"/>
 

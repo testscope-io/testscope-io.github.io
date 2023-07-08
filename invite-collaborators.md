@@ -8,11 +8,11 @@ nav_order: 4
 
 ----
 
-Testscope allows you to invite your teammates to your project so you could collaborate together, both managing test plan and do the testing themselves. Your invited collaborators will be able to anything you do in your project except one thing: deleting the project. So please be aware of this shared responsibilities.
+Testscope allows you to invite your teammates to your project so you could collaborate together, both managing test plan and do the testing themselves. Your invited collaborators will be able to anything you do in your project except one thing: deleting the project. They could delete all of your scopes, scenarios and sessions. So please be aware of this shared responsibilities.
 
 When you guys do testing together, Testscope will prevent the collaborators to test the same scenarios so that you could have a better understanding of each other progress.
 
-Let's start to invite your teammates!
+Let's start inviting your teammates!
 
 <hr/>
 
@@ -20,7 +20,7 @@ Click "Testers" tab in your project, then click "Copy invitation link". Pass thi
 
 <img src="/assets/invite-collaborators/1.png" style="width:100%"/>
 
-Once they opened the link, they will see the project name and the "Join" button. Ask them to click "Join". If they are not logged in or don't have an acconut, they will be directed to login first with their Google account.
+Once they opened the link, they will see the project name and the "Join" button. Ask them to click "Join". If they are not logged in or don't have an account, they will be required to login first with their Google account.
 
 
 <img src="/assets/invite-collaborators/2.png" style="width:100%"/>
@@ -29,7 +29,7 @@ If they have joined, your project will appears in their projects page and they c
 
 <img src="/assets/invite-collaborators/3.png" style="width:100%"/>
 
-In your side, they will be appears in "Tester" tab. If you want, you can revoke them by clicking "Revoke" button.
+In your side, they will be appears in "Tester" tab. You can revoke them by clicking "Revoke" button, if you have to.
 
 
 <img src="/assets/invite-collaborators/4.png" style="width:100%"/>

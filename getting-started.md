@@ -10,7 +10,7 @@ nav_order: 3
 
 ## 1. Create a new project
 
-Once you are logged in, please create your project by clicking the "Create new project" button.
+After you are logged in, you can create your first project by clicking the "Create new project" button.
 
 <img src="/assets/getting-started/1.png" style="width:100%"/>
 
@@ -44,7 +44,7 @@ Write down a version that represent this test session then select the scenario t
 
 <img src="/assets/getting-started/9.png" style="width:100%"/>
 
-Your test session item will be appears in Sessions tab. Klik "Join" to start the test.
+Your test session item will be appears in Sessions tab. Click "Join" to start the test.
 
 <img src="/assets/getting-started/10.png" style="width:100%"/>
 
@@ -52,11 +52,11 @@ You can select a scenario and start testing.
 
 <img src="/assets/getting-started/11.png" style="width:100%"/>
 
-Let's say that the test is fail, click "Fail" and write down the reason (if any).
+Let's say that the test failed, click "Fail" and write down the reason (if any).
 
 <img src="/assets/getting-started/12.png" style="width:100%"/>
 
-You'll be redirected back to test session page and your scenario will be marked as fail.
+You'll be redirected back to test session page and your scenario will be marked as failed and red-colored.
 
 <img src="/assets/getting-started/14.png" style="width:100%"/>
 
