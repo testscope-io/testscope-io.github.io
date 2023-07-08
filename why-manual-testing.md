@@ -17,7 +17,7 @@ Manual testing is valuable when dealing with complex or non-deterministic scenar
 
 Automated testing can't do that (at least for now). The human touch in manual testing complements the efficiency of automated testing, ensuring a holistic approach to quality assurance that goes beyond purely technical validations.
 
-We agree that automated testing should be the first-class citizen in our product development. Testscope.io as product itself is tested by automated testing (unit testing and integration testing). But let us don't think that all software use cases could be handled by automated testing and all products are software product that could be easily tested by automation. Please think another kind of thing like robotic, IoT device,  your car, your groceries checklist, your schedule on medicine consumtion, or anything that you could think of. All of them are whithin reason to be tested/checked manually and documented properly.
+We agree that automated testing should be the first-class citizen in our product development. Testscope.io as product itself is tested by automated testing (unit testing and integration testing). But let us don't think that all software use cases could be handled by automated testing and all products are software product that could be easily tested by automation. Please think another kind of thing like robotic, IoT device,  your car, your groceries checklist, your schedule medication schedule, your checklist before go on vacation or anything that you could think of. All of them are whithin reason to be tested/checked manually and documented properly.
 
 For this reason, Testscope.io is built.
 
