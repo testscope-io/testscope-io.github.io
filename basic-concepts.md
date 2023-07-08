@@ -38,7 +38,7 @@ You are in control on what scope and scenarios that you want to test in each tes
 
 <img src="/assets/test-session.png" style="width:100%"/>
 
-## 7. Collaborator as testers
+## 7. Colaborate as testers
 
 Collaboration is a key feature in Testscope that promotes teamwork and facilitates effective collaboration among members of your testing team. Collaborators are individuals who are granted access to a project, allowing them to actively participate in the testing process. With the Collaborator feature, you can easily invite team members, stakeholders, or subject matter experts to contribute to your testing efforts. Collaborators can also manage the project, scope and scenarios and contribute to the overall improvement of test quality. This collaborative approach fosters effective communication, knowledge sharing, and a shared understanding of the testing objectives, ultimately enhancing the overall quality of your testing endeavors in Testscope.
 
